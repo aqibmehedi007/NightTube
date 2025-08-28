@@ -4,8 +4,6 @@
 <h2 align="center"><b>NightTube</b></h2>
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
 
-<p align="center"><a href="https://f-droid.org/packages/org.schabi.nighttube/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a></p>
-
 <p align="center">
 <a href="https://github.com/TeamNightTube/NightTube/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNightTube/NightTube.svg" ></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"></a>
